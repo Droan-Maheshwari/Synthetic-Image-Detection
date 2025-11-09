@@ -18,7 +18,8 @@ NumPy (for numerical operations)
 
 How to Run Locally
 Clone the repository:
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/your-username/your-repo-name.git]([https://github.com/your-username/your-repo-name.git](https://github.com/Droan-Maheshwari/Synthetic-Image-Detection.git))
+
 cd your-repo-name
 
 Create and activate a virtual environment:
