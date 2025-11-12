@@ -52,11 +52,10 @@ Upload an image, click Analyze, and the app will tell you if it’s Real or AI-G
 
 You can also provide feedback (Yes/No) to help future retraining.
 
-For direct use - https://synthetic-image-detection-g6aeud7as2gmhmhon9qby3.streamlit.app/
-
-
 Install the required packages:
 pip install -r requirements.txt
 
 Run the Streamlit app:
 streamlit run app.py
+
+For direct use - https://synthetic-image-detection-g6aeud7as2gmhmhon9qby3.streamlit.app/
